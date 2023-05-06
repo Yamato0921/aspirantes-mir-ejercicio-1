@@ -12,3 +12,5 @@
 
 luego de haber escrito el readme se utilizo el comando "git commit * -m "agregar solucion primer ejercicio" "
 
+al final se hizo un push de todo para subirlo al repositorio
+
